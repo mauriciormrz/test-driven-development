@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="688606ac-2fbd-4bd0-af1b-e6c2506f4e18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/mauricioramirez.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/numerosromanos/NumerosRomanos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/numerosromanos/NumerosRomanosTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1aiZMD2cHhRmRsqfrv3QYaRQYEt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.other" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="numerosromanos" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="NumerosRomanosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="numeros-romanos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="numerosromanos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="numerosromanos" />
+      <option name="MAIN_CLASS_NAME" value="numerosromanos.NumerosRomanosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NumerosRomanosTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="688606ac-2fbd-4bd0-af1b-e6c2506f4e18" name="Default Changelist" comment="" />
+      <created>1587220324976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587220324976</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="CommitChangelistDialog2" timestamp="1587221680409">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="275" y="23" key="CommitChangelistDialog2/0.23.1440.808@0.23.1440.808" timestamp="1587221680409" />
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1587222598313">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1587222598313" />
+    <state width="1398" height="243" key="GridCell.Tab.0.center" timestamp="1587222598312">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1587222598312" />
+    <state width="1398" height="243" key="GridCell.Tab.0.left" timestamp="1587222598312">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1587222598312" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right" timestamp="1587222598313">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="243" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1587222598313" />
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom" timestamp="1587222302258">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1587222302258" />
+    <state width="1398" height="258" key="GridCell.Tab.1.center" timestamp="1587222302257">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1587222302257" />
+    <state width="1398" height="258" key="GridCell.Tab.1.left" timestamp="1587222302257">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1587222302257" />
+    <state width="1398" height="258" key="GridCell.Tab.1.right" timestamp="1587222302258">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="258" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1587222302258" />
+    <state x="522" y="212" key="chooseDestDirectoryDialog" timestamp="1587220763779">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="522" y="212" key="chooseDestDirectoryDialog/0.23.1440.808@0.23.1440.808" timestamp="1587220763779" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/numerosromanos/NumerosRomanosTest.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
